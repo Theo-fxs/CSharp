@@ -1,0 +1,7 @@
+C:\Users\PC 5\source\repos\Exercicio16Correcao\Exercicio16Correcao\bin\Debug\Exercicio16Correcao.exe.config
+C:\Users\PC 5\source\repos\Exercicio16Correcao\Exercicio16Correcao\bin\Debug\Exercicio16Correcao.exe
+C:\Users\PC 5\source\repos\Exercicio16Correcao\Exercicio16Correcao\bin\Debug\Exercicio16Correcao.pdb
+C:\Users\PC 5\source\repos\Exercicio16Correcao\Exercicio16Correcao\obj\Debug\Exercicio16Correcao.csproj.AssemblyReference.cache
+C:\Users\PC 5\source\repos\Exercicio16Correcao\Exercicio16Correcao\obj\Debug\Exercicio16Correcao.csproj.CoreCompileInputs.cache
+C:\Users\PC 5\source\repos\Exercicio16Correcao\Exercicio16Correcao\obj\Debug\Exercicio16Correcao.exe
+C:\Users\PC 5\source\repos\Exercicio16Correcao\Exercicio16Correcao\obj\Debug\Exercicio16Correcao.pdb
